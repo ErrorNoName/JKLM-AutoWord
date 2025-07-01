@@ -189,11 +189,11 @@ launch.bat
 
 ### 💾 **Téléchargement**
 
-<a href="https://github.com/ErrorNoName/JKLM-Word-Bot/releases/latest">
+<a href="https://github.com/ErrorNoName/JKLM-AutoWord/releases/download/JKLMv1/JKLM-Word-Bot-Portable-1.0.0.exe">
   <img src="https://img.shields.io/badge/Télécharger-Version%20Portable-blue?style=for-the-badge&logo=download" alt="Download">
 </a>
 
-<a href="https://github.com/ErrorNoName/JKLM-Word-Bot/releases/latest">
+<a href="https://github.com/ErrorNoName/JKLM-AutoWord/releases/download/JKLMv1/JKLM.Word.Bot.Setup.1.0.0.exe">
   <img src="https://img.shields.io/badge/Télécharger-Installateur-green?style=for-the-badge&logo=windows" alt="Installer">
 </a>
 
